@@ -1,0 +1,6 @@
+Question
+ATM me deposit, withdraw and balance check create karo
+Electricity bill calculator slab wise
+Train ticket booking – sleeper / AC / tatkal price
+School admission age checking (>=5 yrs)
+Water bottle cost discount scheme
