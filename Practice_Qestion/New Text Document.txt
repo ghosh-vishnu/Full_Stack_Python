@@ -4,3 +4,33 @@ Electricity bill calculator slab wise
 Train ticket booking – sleeper / AC / tatkal price
 School admission age checking (>=5 yrs)
 Water bottle cost discount scheme
+-----------------------------------------------------------
+Qusetion For Loop Practice:-
+Shopping invoice generate karo using loop:
+
+User ko input dena hai 5 items
+Item name
+Price
+Quantity
+
+Output:
+
+Items list table format me
+Total bill
+GST (18%)
+Final payable amount
+---------------------------------------------------------------------
+User se ek sentence input lo aur vowels count + consonants count print karo.
+Example:
+Input:  "Hello Python"
+Output: Vowels = 3, Consonants = 8
+
+---------------------------------------------------------------------------
+User se number input lo (for example 5)
+1 se 5 tak sabhi tables print karo
+Aur har table ka sum bhi print karo
+Aur last me grand total of all tables bhi print karo.
+
+Example (Table of 2):
+Sum = 110
+Aise hi 1 se 5 tak ka total sum:  Final answer.
