@@ -1,0 +1,44 @@
+Python Scope Practice Questions (Real Life)
+Q1. Grocery Bill Calculator (Global + Local Scope)
+
+Global variable total = 0
+Create a function add_item(price, qty)
+Each call should add to the global total and print the updated bill amount.
+
+Q2. Wallet / Bank Balance Update (Local variable shadowing global)
+
+Global balance = 5000
+Create a function withdraw(amount)
+Inside the function use a local variable with the same name balance and see whether the global balance changes or not.
+
+Q3. OTP Verification using Lexical Scope
+
+Function send_otp() should generate OTP (store internally, not globally).
+Inside it define function verify(enter_otp) that compares values.
+Return verify function and test:
+
+x = send_otp()
+x(1234)
+
+Q4. Token Generator using Closure (No global allowed)
+
+Every time the function is called, next token number should be printed:
+
+Token: 1
+Token: 2
+Token: 3
+
+
+State must be remembered without using global.
+
+Q5. Hospital Patient Management (global keyword)
+
+Global variable patients = 100
+Two functions:
+
+admit()
+discharge()
+
+admit → +1
+discharge → -1
+Perform operations both with and without global keyword and compare results.
