@@ -42,3 +42,11 @@ discharge()
 admit → +1
 discharge → -1
 Perform operations both with and without global keyword and compare results.
+
+
+----------------------------------
+Question:-10/12/2025
+Restaurant me GST alag-alag category ke hisaab se lagta hai:
+Food GST = 5%
+Drink GST = 18%
+Aap menu ke category ke hisaab se alag function return kara sakte ho.
