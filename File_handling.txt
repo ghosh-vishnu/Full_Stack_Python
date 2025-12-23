@@ -1,0 +1,14 @@
+Hello, This is Vishnu learning file handling in python.
+ I am enjoying it a lot.
+ Today is a good day to learn something new.
+ Hello,Everyone, Welcome to file handling in python.File handling in python is very easy and fun to learn.
+ This is added using r+ mode.
+ Hello
+ 01234
+
+
+ This is added using a+ mode.
+ This is my 11 row
+ This is added using a+ mode.
+ This is added using a+ mode.
+ This is added using a+ mode.
